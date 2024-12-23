@@ -1,0 +1,147 @@
+Title: Understanding the Radial Acceleration Relation of Dwarf Galaxies with Emergent Gravity
+Authors: Sanghyeon Han, Ho Seong Hwang, Youngsub Yoon
+Table: Velocity dispersion profiles for the 18 galaxies in Figure 1
+================================================================================
+Byte-by-byte Description of file: table2_mrt.txt
+--------------------------------------------------------------------------------
+ Bytes Format Units  Label     Explanations
+--------------------------------------------------------------------------------
+ 1-16  A16    ---    Name    Galaxy name                             
+18-23  F6.1   pc     radius  [4.31/1727.4] galactocentric radius     
+25-29  F5.2   km.s-1 Vsig    [-0.01/16.68] velocity dispersion       
+31-34  F4.2   km.s-1 e_Vsig  [0.49/8.42] error of velocity dispersion
+--------------------------------------------------------------------------------
+Notes (1): negative dispersions have been replaced with 0.00
+--------------------------------------------------------------------------------
+And I             151.9 11.56 4.39
+And I             293.3  7.58 2.56
+And I             420.4  3.90 1.88
+And I             547.1  6.55 1.94
+And I             687.6  6.15 2.55
+And I             788.9 11.92 3.35
+And I             929.7 16.68 4.61
+And III            78.2 11.53 2.94
+And III           140.7  8.36 2.40
+And III           186.5  6.22 2.26
+And III           265.8  4.59 1.58
+And III           373.7  8.50 2.82
+And III           484.1 11.53 3.04
+And III           599.7 12.28 3.28
+And V              67.9  7.65 2.31
+And V             122.9  9.92 2.49
+And V             170.5  7.07 1.93
+And V             218.2 15.70 3.78
+And V             294.0  7.57 2.22
+And V             355.2  9.82 2.49
+And V             431.8 10.96 3.11
+And V             534.2 10.68 2.83
+And V             864.1 14.09 3.49
+And VI            294.5  6.76 3.12
+And VI            431.6 16.08 5.56
+And VI            549.0  9.17 3.08
+And VI            649.5 10.39 4.11
+And VI            776.9 12.22 4.04
+And VI            915.1 11.42 4.58
+And VII           141.1  7.35 2.03
+And VII           338.6 16.33 3.47
+And VII           461.2 14.79 3.11
+And VII           540.4 16.48 3.36
+And VII           625.9  9.69 2.33
+And VII           708.1 13.81 3.33
+And VII           825.6  6.56 1.73
+And VII           944.9 10.60 2.51
+And VII          1094.6 13.20 2.95
+And VII          1331.9 13.01 3.03
+And VII          1705.6 13.46 3.43
+And IX            186.9  9.08 3.21
+And IX            299.4 11.73 3.64
+And IX            471.9  8.85 3.71
+And IX            633.9  9.62 3.29
+And IX            927.1 10.37 3.41
+And XIV            93.8  4.91 1.90
+And XIV           156.7  5.57 2.11
+And XIV           239.0  6.03 2.04
+And XIV           342.7  4.84 1.63
+And XIV           372.9  4.70 2.17
+And XIV           620.7  3.36 1.89
+And XXI           261.4  3.35 4.75
+And XXI           485.8  4.26 2.99
+And XXI           623.6  5.17 6.45
+And XXI           842.1  6.39 2.69
+And XXI          1020.5  0.90 8.42
+And XXI          1452.1  2.64 1.69
+And XXIII         115.8  8.28 2.76
+And XXIII         282.5  7.97 2.51
+And XXIII         474.1  6.68 2.89
+And XXIII         657.6  0.00 1.41
+And XXIII         935.4  6.66 2.49
+And XXIII        1348.5 11.80 4.07
+Bootes I           45.8  2.41 0.76
+Bootes I           87.3  4.47 1.52
+Bootes I          104.7  5.49 1.68
+Bootes I          123.8  3.92 1.17
+Bootes I          147.7  0.85 0.49
+Bootes I          193.4  6.42 1.96
+Canes Venatici I   61.7  6.00 1.47
+Canes Venatici I   96.2  6.74 1.68
+Canes Venatici I  118.1  6.78 1.55
+Canes Venatici I  153.1  8.25 1.70
+Canes Venatici I  179.9  8.56 1.82
+Canes Venatici I  202.4  8.09 1.72
+Canes Venatici I  220.2  7.92 1.73
+Canes Venatici I  242.1  5.54 1.47
+Canes Venatici I  284.9  4.90 1.28
+Canes Venatici I  320.3  7.78 1.65
+Canes Venatici I  360.6  9.02 2.00
+Canes Venatici I  398.7  5.75 1.47
+Canes Venatici I  436.3  7.05 1.66
+Canes Venatici I  497.0  9.08 1.96
+Cetus             132.2  6.57 2.19
+Cetus             225.6  7.63 2.06
+Cetus             347.2  9.04 2.26
+Cetus             455.3  7.02 2.16
+Cetus             636.4  6.98 2.04
+Cetus             759.5  8.63 2.90
+Cetus             893.6  8.32 2.72
+Cetus            1102.8  3.46 1.88
+Cetus            1352.0  6.40 2.42
+Cetus            1727.4  8.73 2.41
+Coma Berenices     11.2  0.00 2.74
+Coma Berenices     28.6  2.88 1.75
+Coma Berenices     41.2  0.00 1.74
+Coma Berenices     49.4  0.00 2.55
+Coma Berenices     60.7  5.63 2.13
+Coma Berenices     83.5  7.65 2.51
+Coma Berenices    112.3  5.94 2.17
+Hercules           28.7  2.12 1.48
+Hercules           64.3  3.62 1.68
+Hercules           91.8  8.91 3.03
+Hercules          149.7  2.35 1.51
+Hercules          244.3  4.75 1.99
+Segue I             4.3  9.98 2.88
+Segue I            11.2  2.67 3.05
+Segue I            17.5  0.00 1.50
+Segue I            22.5  0.00 2.53
+Segue I            32.7  0.00 1.99
+Segue I            44.0  9.42 3.24
+Segue I            52.7  6.74 2.86
+Segue I            76.0  0.00 1.89
+Tucana             70.2  2.99 2.67
+Tucana            140.1  5.16 3.15
+Tucana            206.5  0.00 4.67
+Tucana            257.1  4.49 2.77
+Tucana            367.6  8.24 3.15
+Tucana            433.2  0.00 2.29
+Tucana            555.7  0.00 6.26
+Ursa Major I       55.0  4.80 2.37
+Ursa Major I      100.3 10.02 2.87
+Ursa Major I      138.9  6.42 2.22
+Ursa Major I      169.2  5.64 2.23
+Ursa Major I      215.3  2.57 2.10
+Ursa Major I      265.5  6.26 2.15
+Willman I           8.9  5.35 2.17
+Willman I          15.7  3.53 1.93
+Willman I          22.3  0.00 2.51
+Willman I          31.9  1.99 3.85
+Willman I          47.7  4.58 2.09
+Willman I          70.7  4.18 1.94
